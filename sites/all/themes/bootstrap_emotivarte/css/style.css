@@ -1,0 +1,27 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ * CAfe Oscuro: #3D2216
+ */
+a, a:hover{
+  color: #D23064;
+}
+body.maintenance-page{
+  text-align: center;
+}
+a.logo img{
+  height: 63px;
+  padding: 5px;
+}
+body{
+  background: url("img/fondo-emotivarte.jpg") center top;
+}
+.navbar-inverse{
+  background: #3D2216;
+  color: white;
+}
+ul.menu{
+  text-transform: uppercase;
+  margin-top: 12px;
+  float: right;
+}
